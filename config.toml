@@ -1,4 +1,4 @@
-baseURL = 'http://eratchacha.github.io/'
+baseURL = 'https://eratchacha.github.io/'
 languageCode = 'en-us'
 title = 'Eratchacha'
 theme = "stack"
